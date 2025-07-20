@@ -18,4 +18,5 @@ layout: home
 ### Interne Seiten
 [NAS 01](https://nas01.intranet.thomate.de:5501/)  
 [Paperless NGX](http://paperless.intranet.thomate.de/dashboard)  
-[Home Assistant](http://home.intranet.thomate.de:8123/dashboard-kiosk/0)
+[Home Assistant](http://home.intranet.thomate.de:8123/dashboard-kiosk/0)  
+[IT Tools](http://nas01.intranet.thomate.de:8082)
