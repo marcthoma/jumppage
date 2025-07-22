@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Jumppage
 ### Externe Seiten
 [Spiegel](https://www.spiegel.de)  
 [Heies Newsticker](https://www.heise.de/newsticker)  
