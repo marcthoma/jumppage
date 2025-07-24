@@ -3,17 +3,17 @@ tabs:
     url: "/"
     active: true
   - title: "Internes Netzwerk"
-    url: "/intern"
+    url: "/intern.html"
     active: false
   - title: "Meine Webseiten"
-    url: "/websites"
+    url: "/websites.html"
     active: false
   - title: "Cloud-LW"
-    url: "/cloud"
+    url: "/cloud.html"
     active: false
   - title: "Web-Site-Design"
-    url: "/design"
+    url: "/design.html"
     active: false
   - title: "Links"
-    url: "/links"
+    url: "/links.html"
     active: false

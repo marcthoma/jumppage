@@ -4,7 +4,23 @@ layout: default
 
 <nav class="tab-navigation">
   {% for tab in site.data.navigation.tabs %}
-    <a href="{{ tab.url }}" {% if tab.active %}class="active"{% endif %}>{{ tab.title }}</a>
+    {% assign is_active = false %}
+    
+    {% comment %} Für die Startseite {% endcomment %}
+    {% if tab.url == "/" %}
+      {% if page.url == "/" or page.url == site.baseurl | append: "/" or page.url == site.baseurl | append: "/index.html" %}
+        {% assign is_active = true %}
+      {% endif %}
+    {% else %}
+      {% comment %} Für alle anderen Seiten {% endcomment %}
+      {% assign tab_without_html = tab.url | remove: '.html' %}
+      {% assign page_without_html = page.url | remove: '.html' %}
+      {% if page_without_html contains tab_without_html %}
+        {% assign is_active = true %}
+      {% endif %}
+    {% endif %}
+    
+    <a href="{{ site.baseurl }}{{ tab.url }}" {% if is_active %}class="active"{% endif %}>{{ tab.title }}</a>
   {% endfor %}
 </nav>
 
