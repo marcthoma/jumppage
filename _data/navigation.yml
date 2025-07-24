@@ -1,0 +1,19 @@
+tabs:
+  - title: "Allgemein"
+    url: "/"
+    active: true
+  - title: "Internes Netzwerk"
+    url: "/intern"
+    active: false
+  - title: "Meine Webseiten"
+    url: "/websites"
+    active: false
+  - title: "Cloud-LW"
+    url: "/cloud"
+    active: false
+  - title: "Web-Site-Design"
+    url: "/design"
+    active: false
+  - title: "Links"
+    url: "/links"
+    active: false

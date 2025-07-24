@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<nav class="tab-navigation">
+  {% for tab in site.data.navigation.tabs %}
+    <a href="{{ tab.url }}" {% if tab.active %}class="active"{% endif %}>{{ tab.title }}</a>
+  {% endfor %}
+</nav>
+
+<div class="two-column-container">
+  {% assign content_parts = content | split: '<!--SPALTE2-->' %}
+  <div class="column">
+    {{ content_parts[0] }}
+  </div>
+  <div class="column">
+    {{ content_parts[1] }}
+  </div>
+</div>
