@@ -5,26 +5,26 @@
 layout: two-columns
 ---
 
-### Externe Seiten
-[Spiegel](https://www.spiegel.de)  
-[Heies Newsticker](https://www.heise.de/newsticker)  
-[Heies Security](https://www.heise.de/security)  
-[MacTechNews](https://www.mactechnews.de)  
-[MacGadget](https://www.macgadget.de)  
+## Externe Seiten
+- [Spiegel](https://www.spiegel.de)
+- [Heies Newsticker](https://www.heise.de/newsticker)
+- [Heies Security](https://www.heise.de/security)
+- [MacTechNews](https://www.mactechnews.de)
+- [MacGadget](https://www.macgadget.de)
 
-### Produktive Seiten
-[Riverside](https://riverside.fm/)  
+## Produktive Seiten
+- [Riverside](https://riverside.fm/)
 
 <!--SPALTE2-->
 
-### Interne Seiten
-[NAS 01](https://nas01.intranet.thomate.de:5501/)  
-[Paperless NGX](http://paperless.intranet.thomate.de/dashboard)  
-[Home Assistant](http://home.intranet.thomate.de:8123/dashboard-kiosk/0)  
-[IT Tools](http://nas01.intranet.thomate.de:8082)
+## Interne Seiten
+- [NAS 01](https://nas01.intranet.thomate.de:5501/)
+- [Paperless NGX](http://paperless.intranet.thomate.de/dashboard)
+- [Home Assistant](http://home.intranet.thomate.de:8123/dashboard-kiosk/0)
+- [IT Tools](http://nas01.intranet.thomate.de:8082)
 
-### 3D-Druck
-[Thangs](https://thangs.com/)  
+## 3D-Druck
+- [Thangs](https://thangs.com/)
 
 
 
