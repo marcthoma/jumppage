@@ -8,8 +8,8 @@ tabs:
   - title: "Meine Webseiten"
     url: "/websites.html"
     active: false
-  - title: "Cloud-LW"
-    url: "/cloud.html"
+  - title: "Mac und iOS"
+    url: "/mac_and_ios.html"
     active: false
   - title: "Web-Site-Design"
     url: "/design.html"
