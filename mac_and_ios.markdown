@@ -4,7 +4,7 @@ title: Mac and iOS
 ---
 
 ## Wichtige Mac-Websites
-- [Homebrew](https://https://brew.sh/)
+- [Homebrew](https://brew.sh/)
 
 
 <!--SPALTE2-->
