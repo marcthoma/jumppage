@@ -3,9 +3,16 @@ layout: two-columns
 title: Internes Netzwerk
 ---
 
-## Server
-- [NAS 01](https://nas01.intranet.thomate.de:5501/)
-- [Paperless NGX](http://paperless.intranet.thomate.de/dashboard)
+## Mein produktiven Webseiten
+- [mth-training.de](https://mth-training.de/)
+- [mth-datenschutz.de](https://www.mth-datenschutz.de)
+
+## Mein produktiven Webseiten - Login
+- [mth-training.de](https://mth-training.de/wp-admin/)
+- [mth-datenschutz.de](https://www.mth-datenschutz.de/wp-admin/)
+
+## Meine externen Webseiten
+- [YT-Risikobasierte-Ansatz \- Dashboard](https://studio.youtube.com/channel/UCAlTwPmsoaOcILVyUE0PSkA)
 
 <!--SPALTE2-->
 
