@@ -14,6 +14,6 @@ tabs:
   - title: "Web-Site-Design"
     url: "/design.html"
     active: false
-  - title: "Links"
-    url: "/links.html"
-    active: false
+  - title: "Entwicklung"
+    url: "/development.html"
+    active: true
