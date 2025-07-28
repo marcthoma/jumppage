@@ -3,11 +3,11 @@ layout: two-columns
 title: Internes Netzwerk
 ---
 
-## Mein produktiven Webseiten
+## Meine Websites
 - [mth-training.de](https://mth-training.de/)
 - [mth-datenschutz.de](https://www.mth-datenschutz.de)
 
-## Mein produktiven Webseiten - Login
+## Meine Websites - Login
 - [mth-training.de](https://mth-training.de/wp-admin/)
 - [mth-datenschutz.de](https://www.mth-datenschutz.de/wp-admin/)
 
