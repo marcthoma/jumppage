@@ -13,7 +13,7 @@ layout: two-columns
 - [MacGadget](https://www.macgadget.de)
 
 ## Wichtige Seiten
-- [Riverside](googlechrome://riverside.fm/)
+- [Riverside](https://riverside.fm/)
 - [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
 
 <!--SPALTE2-->
