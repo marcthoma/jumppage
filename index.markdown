@@ -12,8 +12,9 @@ layout: two-columns
 - [MacTechNews](https://www.mactechnews.de)
 - [MacGadget](https://www.macgadget.de)
 
-## Produktive Seiten
+## Wichtige Seiten
 - [Riverside](https://riverside.fm/)
+- [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
 
 <!--SPALTE2-->
 
