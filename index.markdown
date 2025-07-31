@@ -26,6 +26,9 @@ layout: two-columns
 
 ## 3D-Druck
 - [Thangs](https://thangs.com/)
+- [Printables](https://www.printables.com)
+- [Thangs](https://thangs.com/)
+- [Cults 3D](https://cults3d.com/)
 
 
 
