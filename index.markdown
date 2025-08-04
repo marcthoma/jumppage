@@ -12,6 +12,12 @@ layout: two-columns
 - [MacTechNews](https://www.mactechnews.de)
 - [MacGadget](https://www.macgadget.de)
 
+## LinkedIn
+- [Feed](https://www.linkedin.com/feed/)
+- [Marc Oliver Thoma](https://www.linkedin.com/in/marcoliverthoma/)
+- [Learning](https://www.linkedin.com/learning/)
+- [Learning Kurse von mir](https://www.linkedin.com/learning/instructors/marc-oliver-thoma)
+
 ## Wichtige Seiten
 - [Riverside](https://riverside.fm/)
 - [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
