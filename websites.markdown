@@ -16,5 +16,5 @@ title: Internes Netzwerk
 
 <!--SPALTE2-->
 
-## Dienste
-- [Home Assistant](http://home.intranet.thomate.de:8123/)
+## Hoster
+- [Plesk](https://mth-training.de:8443)
