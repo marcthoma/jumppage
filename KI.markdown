@@ -10,7 +10,7 @@ layout: two-columns
 - [Claude - bezahlt](https://claude.ai)
 
 ## KI-Anbieter - Suchmaschinen
-
+- [Perplexity](https://www.perplexity.ai)
 
 
 <!--SPALTE2-->
