@@ -2,6 +2,9 @@ tabs:
   - title: "Allgemein"
     url: "/"
     active: true
+  - title: "KI"
+    url: "/KI.html"
+    active: false
   - title: "Internes Netzwerk"
     url: "/intern.html"
     active: false
