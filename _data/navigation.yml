@@ -14,7 +14,7 @@ tabs:
   - title: "Mac und iOS"
     url: "/mac_and_ios.html"
     active: false
-  - title: "Web-Site-Design"
+  - title: "Design"
     url: "/design.html"
     active: false
   - title: "Entwicklung"
