@@ -6,10 +6,13 @@ title: Internes Netzwerk
 ## Meine Websites
 - [mth-training.de](https://mth-training.de/)
 - [mth-datenschutz.de](https://www.mth-datenschutz.de)
+- [risikobasierter-ansatz.de](https://www.risikobasierter-ansatz.de/)
+
 
 ## Meine Websites - Login
 - [mth-training.de](https://mth-training.de/wp-admin/)
 - [mth-datenschutz.de](https://www.mth-datenschutz.de/wp-admin/)
+
 
 ## Meine externen Webseiten
 - [YT-Risikobasierte-Ansatz \- Dashboard](https://studio.youtube.com/channel/UCAlTwPmsoaOcILVyUE0PSkA)
