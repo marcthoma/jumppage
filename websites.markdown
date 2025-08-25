@@ -26,5 +26,5 @@ title: Internes Netzwerk
 
 ## Hoster
 - [Strato](https://www.strato.de/apps/CustomerService#/skl)
-- [Plesk](https://mth-training.de:8443)
+- [Plesk](https://h2426327.stratoserver.net/login_up.php)
 
