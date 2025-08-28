@@ -11,6 +11,7 @@ layout: two-columns
 - [Heies Security](https://www.heise.de/security)
 - [MacTechNews](https://www.mactechnews.de)
 - [MacGadget](https://www.macgadget.de)
+- [YouTube](https://www.youtube.com)
 
 ## LinkedIn
 - [Feed](https://www.linkedin.com/feed/)
