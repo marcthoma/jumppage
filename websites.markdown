@@ -19,7 +19,7 @@ title: Internes Netzwerk
 
 ## Dienste
 - [Portainer](https://mth-training.de:9443/)
-- [n8n](https://mth-training.de:5678/)
+- [n8n](https://n8n.mth-training.de/)
 
 
 <!--SPALTE2-->
