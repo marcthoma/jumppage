@@ -9,7 +9,7 @@ title: Internes Netzwerk
 - [NAS 02](https://nas02.intranet.thomate.de:5501/)
 
 ## Internet Server
-- [VMware](192.168.178.25:/)
+- [VMware](https://192.168.178.25/)
 
 <!--SPALTE2-->
 
