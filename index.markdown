@@ -7,8 +7,8 @@ layout: two-columns
 
 ## Externe Seiten
 - [Spiegel](https://www.spiegel.de)
-- [Heies Newsticker](https://www.heise.de/newsticker)
-- [Heies Security](https://www.heise.de/security)
+- [Heise Newsticker](https://www.heise.de/newsticker)
+- [Heise Security](https://www.heise.de/security)
 - [MacTechNews](https://www.mactechnews.de)
 - [MacGadget](https://www.macgadget.de)
 - [YouTube](https://www.youtube.com)
