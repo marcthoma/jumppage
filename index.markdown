@@ -19,7 +19,7 @@ layout: two-columns
 - [Learning](https://www.linkedin.com/learning/)
 - [Learning Kurse von mir](https://www.linkedin.com/learning/instructors/marc-oliver-thoma)
 
-## Wichtige Seiten
+## Wichtige Seiten test
 - [Riverside](https://riverside.fm/)
 - [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
 
