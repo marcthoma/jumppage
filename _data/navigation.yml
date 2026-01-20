@@ -17,6 +17,6 @@ tabs:
   - title: "Design"
     url: "/design.html"
     active: false
-  - title: "Entwicklung"
+  - title: "GitHub und Dev"
     url: "/development.html"
     active: true
