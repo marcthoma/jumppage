@@ -26,6 +26,7 @@ Note: After changing `_config.yml`, you must restart the server.
 **Theme & Styling:**
 - Uses the Minima theme with custom SCSS in `_sass/two-columns.scss`
 - Custom styles are imported via `assets/main.scss`
+- Mobile responsive at 768px breakpoint (tabs stack vertically, columns become single-column)
 
 **Custom Layout:**
 - `_layouts/two-columns.html` provides a tabbed navigation and two-column content layout
@@ -34,7 +35,19 @@ Note: After changing `_config.yml`, you must restart the server.
 
 **Content Pages:**
 - Each `.markdown` file in the root (e.g., `KI.markdown`, `development.markdown`) represents a tab
-- Pages use the `two-columns` layout and contain link lists organized by category
+- Pages must use front matter with `layout: two-columns`
+- Link lists are organized by category using `## Heading` sections
+
+## Adding a New Tab
+
+1. Create a new `.markdown` file in the root directory with front matter:
+   ```yaml
+   ---
+   layout: two-columns
+   ---
+   ```
+2. Add the tab to `_data/navigation.yml` with `title` and `url` (e.g., `/filename.html`)
+3. Use `<!--SPALTE2-->` marker to split content between left and right columns
 
 ## Deployment
 
