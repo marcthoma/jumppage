@@ -31,6 +31,9 @@ layout: two-columns
 - [Home Assistant](http://home.intranet.thomate.de:8123/dashboard-kiosk/0)
 - [IT Tools](http://nas01.intranet.thomate.de:8082)
 
+## Buchhaltung
+- [Lexware](https://app.lexware.de/sign-in/)
+
 ## 3D-Druck
 - [Thangs](https://thangs.com/)
 - [Printables](https://www.printables.com)
