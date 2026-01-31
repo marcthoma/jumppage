@@ -32,6 +32,7 @@ layout: two-columns
 - [IT Tools](http://nas01.intranet.thomate.de:8082)
 
 ## Buchhaltung
+- [Datev](https://secure11.datev.de/openid/)
 - [Lexware](https://app.lexware.de/sign-in/)
 
 ## 3D-Druck
