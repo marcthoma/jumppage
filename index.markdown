@@ -32,8 +32,10 @@ layout: two-columns
 - [IT Tools](http://nas01.intranet.thomate.de:8082)
 
 ## Buchhaltung
-- [Datev](https://apps.datev.de/mydatev)
 - [Lexware](https://app.lexware.de/sign-in/)
+- [Datev](https://apps.datev.de/mydatev)
+- [SevDesk - alt](https://sevdesk.de/)
+
 
 ## 3D-Druck
 - [Thangs](https://thangs.com/)
